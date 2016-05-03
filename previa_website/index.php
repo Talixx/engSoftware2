@@ -22,7 +22,7 @@
 
 <?php  include"menu.php";?>
 
-<?php 
+<?php
   if ($_GET["pag"]=='' || $_GET["pag"]=='home') {
     include"pags/home.php";
   }
@@ -70,7 +70,9 @@
   if ($_GET["pag"]=='horarios') {
     include"pags/pos/horarios.php";
   }
-  
+// Páginas e subpáginas de Extensão
+  if($_GET["pag"] == 'extensao') include "pags/extensao.php";
+
 // Páginas e subpáginas de Pesquisa
 if ($_GET["pag"] == 'pesquisa') include"pags/pesquisa/index.php";
 else if ($_GET["pag"] == 'parcerias') include "pags/pesquisa/parcerias.php";
