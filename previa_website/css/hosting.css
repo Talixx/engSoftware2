@@ -67,6 +67,10 @@ p {
 .navbar-fixed-top .navbar-collapse, .navbar-fixed-bottom .navbar-collapse {
 	max-height: 370px;
 }
+
+
+
+
 .jumbotron {
 	position: relative;
 	color: #fff;
@@ -78,6 +82,7 @@ p {
 	overflow:hidden;
 }
 .navbar {
+	position: relative;
 	background:	#228B22;
 	border-bottom: 0;
 }
@@ -774,5 +779,5 @@ margin-bottom: -20px;
 /*Image fix for IE*/
 
 .img-responsive {
-	width:auto \9;	
+	width:auto \9;
 }
