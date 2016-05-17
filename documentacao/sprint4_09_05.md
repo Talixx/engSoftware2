@@ -1,4 +1,4 @@
-##Tarefas realizadas e discutidas no dia 09/04##
+##Tarefas realizadas e discutidas no dia 09/05##
 ###Scrum Master : Liandro 
 
 1. Foram definidas algumas datas para organizar o andamento do projeto
