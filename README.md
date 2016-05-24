@@ -6,6 +6,7 @@
 * [Aula 04/04 - Sprint 2 - Tarefas realizadas e discutidas no dia 04/04] (https://github.com/Talixx/engSoftware2/blob/master/documentacao/sprint2_04_04.md)
 * [Aula 09/05 - Sprint 4 - Tarefas realizadas e discutidas no dia 09/05] (https://github.com/Talixx/engSoftware2/blob/master/documentacao/sprint4_09_05.md)
 * [Aula 16/05 - Sprint 5 - Tarefas realizadas e discutidas no dia 16/05] (https://github.com/Talixx/engSoftware2/blob/master/documentacao/sprint5_16_05.md)
+* [Aula 23/05 - Sprint 6 - Tarefas realizadas e discutidas no dia 23/05] (https://github.com/Talixx/engSoftware2/blob/master/documentacao/sprint6_23_05.md)
 
 ## Servindo Website sem Apache
 
