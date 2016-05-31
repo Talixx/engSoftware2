@@ -17,3 +17,7 @@
 .nav .dropdown-menu li a {
     color: white;
 }
+
+.nav .dropdown-menu li a:hover {
+    color: #333;
+}
