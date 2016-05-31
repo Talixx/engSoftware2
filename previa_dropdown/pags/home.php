@@ -75,6 +75,9 @@
       <p><a style="color: green;" href=""><i class="glyphicon glyphicon-link"></i> Grade Curricular</a></p>
       <p><a style="color: green;" href=""><i class="glyphicon glyphicon-link"></i> Cadastro semana acadêmica</a></p>
       <p><a style="color: green;" href=""><i class="glyphicon glyphicon-link"></i> Publicações</a></p>
+      <p><a style="color: green;" href=""><i class="glyphicon glyphicon-link"></i> Pós Graduação</a></p>
+      <p><a style="color: green;" href=""><i class="glyphicon glyphicon-link"></i> Pesquisa</a></p>
+      <p><a style="color: green;" href=""><i class="glyphicon glyphicon-link"></i> Extensão</a></p>
     </div>
     <div class="col-sm-6 features">
         <div class="container">
