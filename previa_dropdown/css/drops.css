@@ -1,0 +1,19 @@
+.nav .dropdown-toggle {
+    border-radius: 10px;
+}
+
+.nav .dropdown-menu {
+    background: green;
+    border-radius: 10px !important;
+    border: 1px solid white;
+    color: white;
+}
+
+.nav .dropdown:hover a.dropdown-toggle {
+    background-color: green;
+    color: white;
+}
+
+.nav .dropdown-menu li a {
+    color: white;
+}

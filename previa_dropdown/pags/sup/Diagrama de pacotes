@@ -1,0 +1,14 @@
+Diagrama de pacotes
+
+Descreva como os elementos do modelo estão organizados em pacotes e demonstre as dependências entre eles
+Utilizado para modelar as subdivisões da arquitetura ou mesmo sistema ou submodulos;
+Pode ser utilizado para representar um conjunto de sistemas integrados;
+Pacotes;
+Um pacote pode ser um modulo, subsistema, sistema, uma biblioteca;
+Dependências
+Pacotes normalmente contêm dependências entre si
+Um relacionamento de dependência informa que o elemento depende necessita de alguma forma do elemento do dependente.
+
+pkg Sistemas integrados
+	Sistema de contabilidade
+		Sistema de folha de pagamento
